@@ -55,7 +55,7 @@
     <p>se te chamar pra um rodizio de traveco, tu vai ??</p>
 	
 <form>
-    <label for="res">Resposta:</label>
+    <label for="res">Seja sincero:</label>
     <input type="text" id="res" name="res">
     <input type="submit" value="Averiguar">
   </form>
