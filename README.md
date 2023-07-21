@@ -57,7 +57,7 @@
 <form>
     
    <p>Sim ou Nao ??:</p>
-  <input type="text" id="numero">
+  <input type="text" id="numero" autocomplete="off">
   <button onclick="verificarNumero()">Verificar</button>
   <p id="resultado"></p>
 
