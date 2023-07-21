@@ -53,13 +53,13 @@
   </nav>
   
   <section>
-    <h1>Chupais minha pikas</h1>
-    <p>se tem 100 pikas na parede, com quantas voce se engasga ?</p>
+    <h1>PERGUNTA SUPER SERIA</h1>
+    <p>se te chamar pra um rodizio de traveco, tu vai ??</p>
 	
 <form>
-    <label for="nome">Nome:</label>
-    <input type="text" id="nome" name="nome">
-    <input type="submit" value="Enviar">
+    <label for="res">Resposta:</label>
+    <input type="text" id="res" name="Seja sincero">
+    <input type="submit" value="Averiguar">
   </form>
 
 	
