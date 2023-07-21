@@ -79,8 +79,7 @@
     display: inline-block;
     font-size: 16px;
     cursor: pointer;
-	margin-left: 300px;
-    margin-right: 300px;
+	
 	margin-bottom: 20px;
   }
    
