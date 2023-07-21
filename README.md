@@ -45,10 +45,8 @@
   
   <nav>
     <ul>
-      <li><a href="#">Mainha</a></li>
-      <li><a href="#">Juon</a></li>
-      <li><a href="#">MenorGordinho</a></li>
-      <li><a href="#">MenorNando</a></li>
+      <li><a href="#">Big</a></li>
+      <li><a href="#">Jao</a></li>
     </ul>
   </nav>
   
