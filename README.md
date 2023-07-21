@@ -56,12 +56,24 @@
 	
 <form>
     <label for="res">Seja sincero:</label>
-    <input type="text" id="res" name="res">
-    <input type="submit" value="Averiguar">
+   <p>Digite um número:</p>
+  <input type="text" id="numero">
+  <button onclick="verificarNumero()">Verificar</button>
+  <p id="resultado"></p>
+
+  <script>
+    function verificarNumero() {
+      var numero = document.getElementById("numero").value;
+      var resultadoElement = document.getElementById("resultado");
+
+      if (numero % 2 === 0) {
+        resultadoElement.textContent = "O número é par.";
+      } else {
+        resultadoElement.textContent = "O número é ímpar.";
+      }
+    }
+  </script>
   </form>
-if(res==sim){
-sabe muito
-}
 	
   </section>
   
