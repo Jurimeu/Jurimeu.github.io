@@ -56,7 +56,11 @@
     <h1>Chupais minha pikas</h1>
     <p>se tem 100 pikas na parede, com quantas voce se engasga ?</p>
 	
-
+<form>
+    <label for="nome">Nome:</label>
+    <input type="text" id="nome" name="nome">
+    <input type="submit" value="Enviar">
+  </form>
 
 	
   </section>
