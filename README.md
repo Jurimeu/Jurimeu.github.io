@@ -56,7 +56,7 @@
     <h1>Chupais minha pikas</h1>
     <p>se tem 100 pikas na parede, com quantas voce se engasga ?</p>
 	
-	<img src="Bibliotecas\Documentos\coxinh.jpeg" alt="Deu nao">
+
 
 	
   </section>
