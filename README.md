@@ -2,6 +2,12 @@
 
 <!DOCTYPE html>
 <html lang=”pt-br”>
+html, body {
+  height: 100%; /* Define a altura do HTML e do corpo da página como 100% da altura da janela do navegador */
+  margin: 0; /* Remove as margens padrão do corpo da página */
+  padding: 0; /* Remove o preenchimento padrão do corpo da página */
+}
+
 <head>
   <title>Minha Página</title>
   <style>
