@@ -1,6 +1,3 @@
-
-<html lang=”pt-br”>
-
 <head>
   <title>Minha Página</title>
   <style>
