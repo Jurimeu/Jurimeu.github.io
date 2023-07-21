@@ -1,6 +1,4 @@
-# Jurimeu.github.io
 
-<!DOCTYPE html>
 <html lang=”pt-br”>
 html, body {
   height: 100%; /* Define a altura do HTML e do corpo da página como 100% da altura da janela do navegador */
@@ -111,4 +109,4 @@ html, body {
     <p>Saporra tem dono e sou eu</p>
   </footer>
 </body>
-</html>
+
