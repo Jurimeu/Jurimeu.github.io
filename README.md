@@ -71,6 +71,7 @@
       } else {
         resultadoElement.textContent = "Inimigo";
       }
+	     event.preventDefault();
     }
   </script>
   </form>
