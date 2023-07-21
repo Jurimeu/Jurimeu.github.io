@@ -66,7 +66,7 @@
       var numero = document.getElementById("numero").value;
       var resultadoElement = document.getElementById("resultado");
 
-      if (numero  === "sim"|| "Sim" || "s" || "S") {
+      if (numero  == "sim" ^ "Sim" ^ "s" ^ "S") {
         resultadoElement.textContent = "Amigo";
       } else {
         resultadoElement.textContent = "Inimigo";
