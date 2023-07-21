@@ -67,19 +67,19 @@
       var resultadoElement = document.getElementById("resultado");
 
       if (numero  === "sim") {
-        resultadoElement.textContent = <span style="font-size: 50px;">Amigo</span>;
+        resultadoElement.textContent = '<span style="font-size: 50px;">Amigo</span>';
       } 
        else if (numero  === "Sim") {
-        resultadoElement.textContent = <span style="font-size: 50px;">Amigo</span>;
+        resultadoElement.textContent = '<span style="font-size: 50px;">Amigo</span>';
       } 
 	 else if (numero  === "s") {
-        resultadoElement.textContent = <span style="font-size: 50px;">Amigo</span>;
+        resultadoElement.textContent = '<span style="font-size: 50px;">Amigo</span>';
       } 
 	 else if (numero  === "S") {
-        resultadoElement.textContent = <span style="font-size: 50px;">Amigo</span>;
+        resultadoElement.textContent = '<span style="font-size: 50px;">Amigo</span>';
       } 
       else {
-        resultadoElement.textContent = <span style="font-size: 50px;">Inimigo</span>;
+        resultadoElement.textContent = '<span style="font-size: 50px;">Inimigo</span>';
       }
 	     event.preventDefault();
     }
