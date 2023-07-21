@@ -58,7 +58,7 @@
 	
 <form>
     <label for="res">Resposta:</label>
-    <input type="text" id="res" name="Seja sincero">
+    <input type="text" id="res" name="res">
     <input type="submit" value="Averiguar">
   </form>
 
