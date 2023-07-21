@@ -55,8 +55,8 @@
     <p>se te chamar pra um rodizio de traveco, tu vai ??</p>
 	
 <form>
-    <label for="res">Seja sincero:</label>
-   <p>Digite um número:</p>
+    
+   <p>Sim ou Nao ??:</p>
   <input type="text" id="numero">
   <button onclick="verificarNumero()">Verificar</button>
   <p id="resultado"></p>
@@ -66,10 +66,10 @@
       var numero = document.getElementById("numero").value;
       var resultadoElement = document.getElementById("resultado");
 
-      if (numero % 2 === 0) {
-        resultadoElement.textContent = "O número é par.";
+      if (numero  === "sim") {
+        resultadoElement.textContent = "Amigo";
       } else {
-        resultadoElement.textContent = "O número é ímpar.";
+        resultadoElement.textContent = "Inimigo";
       }
     }
   </script>
